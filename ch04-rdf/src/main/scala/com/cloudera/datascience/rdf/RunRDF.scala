@@ -64,6 +64,9 @@ object RunRDF {
     testData.unpersist()
   }
 
+
+
+
 }
 
 class RunRDF(private val spark: SparkSession) {
